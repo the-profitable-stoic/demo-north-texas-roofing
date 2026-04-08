@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "North Texas Roofing",
+    "phone": "+18177410558",
+    "category": "roofing contractor",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Fort Worth's Roofing Authority",
+      "heroSubline": "Protecting North Texas homes with dependable roofing solutions. Expert repairs, replacements, and installations.",
+      "aboutTitle": "Built on Trust, Fortified by Expertise",
+      "aboutText": [
+        "North Texas Roofing started with a simple goal: to provide honest, reliable roofing services to our neighbors in Fort Worth. We saw too many homeowners getting shortchanged, so we set out to build a company that puts integrity first.",
+        "Our approach is straightforward: assess the situation thoroughly, explain the options clearly, and execute the work flawlessly. We believe in open communication, fair pricing, and standing behind every project we undertake.",
+        "We're proud to be a part of the Fort Worth community. We support local initiatives and strive to give back whenever possible. When you choose North Texas Roofing, you're choosing a team that's invested in the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique roofing challenges posed by North Texas weather, from hail storms to blistering summers."
+        },
+        {
+          "title": "Quality Craftsmanship",
+          "description": "Our team is composed of experienced professionals dedicated to delivering superior workmanship on every job."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide detailed, upfront estimates with no hidden fees or surprises. You'll know exactly what to expect."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We're committed to responding promptly, completing projects on time, and exceeding your expectations."
+        }
+      ],
+      "ctaHeadline": "Secure Your Home Today",
+      "ctaSubline": "Schedule a free roofing inspection and discover the North Texas Roofing difference."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repair services for Fort Worth and surrounding areas.",
+        "description": "From minor leaks to storm damage, North Texas Roofing provides comprehensive roof repair services. We understand that a damaged roof can quickly lead to more significant problems, so we respond promptly and efficiently to address your needs.\n\nOur experienced technicians will thoroughly inspect your roof to identify the source of the issue and recommend the most effective repair solution. We use quality materials and proven techniques to ensure lasting results, whether it's replacing damaged shingles, repairing flashing, or addressing structural issues.\n\nWe handle all types of roof repairs, including those caused by hail, wind, water damage, and general wear and tear. Our goal is to restore the integrity of your roof and protect your home from further damage. We provide detailed estimates and keep you informed throughout the repair process.\n\nDon't let a small roof problem turn into a major headache. Contact North Texas Roofing for reliable roof repair services you can trust. We're here to help you keep your home safe and dry.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify damage and assess the extent of the problem.",
+          "Step 2: Detailed estimate outlining the scope of work and associated costs.",
+          "Step 3: Efficient and professional repair using quality materials.",
+          "Step 4: Final inspection to ensure the repair is complete and meets our high standards."
+        ],
+        "benefits": [
+          "Prevents further damage to your home",
+          "Extends the lifespan of your roof",
+          "Increases property value",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof repair request?",
+            "answer": "We understand the urgency of roof repairs, especially after a storm. We strive to respond to all repair requests as quickly as possible, often within 24-48 hours."
+          },
+          {
+            "question": "Do you offer emergency roof repair services?",
+            "answer": "Yes, we offer emergency roof repair services for situations that require immediate attention, such as severe leaks or storm damage. Call us anytime, and we'll dispatch a team to your location."
+          },
+          {
+            "question": "What types of roofing materials do you repair?",
+            "answer": "We repair all types of roofing materials commonly found in North Texas, including asphalt shingles, tile, metal, and wood."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Expert roof replacement services to protect your home for years to come.",
+        "description": "When roof repair is no longer a viable option, North Texas Roofing provides professional roof replacement services. We understand that replacing your roof is a significant investment, and we're committed to making the process as smooth and stress-free as possible.\n\nOur experienced team will guide you through the selection of roofing materials that best suit your home's style, budget, and performance requirements. We offer a wide range of options, including asphalt shingles, tile, metal, and more. We only use quality materials from trusted manufacturers to ensure lasting durability and performance.\n\nOur skilled installers will remove your old roof, inspect the underlying structure for any damage, and install your new roof with precision and care. We pay close attention to every detail to ensure a watertight and aesthetically pleasing result. We also handle all necessary permits and inspections.\n\nWith North Texas Roofing, you can be confident that your roof replacement will be done right. We stand behind our work with a comprehensive warranty, giving you peace of mind for years to come.",
+        "process": [
+          "Step 1: Thorough inspection of your existing roof and assessment of its condition.",
+          "Step 2: Consultation to discuss your roofing options and budget.",
+          "Step 3: Professional installation of your new roof using quality materials.",
+          "Step 4: Final inspection to ensure the roof meets our high standards and your expectations."
+        ],
+        "benefits": [
+          "Increases property value",
+          "Enhances curb appeal",
+          "Provides long-lasting protection",
+          "Improves energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement typically take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as weather conditions. In most cases, a typical roof replacement can be completed in 1-3 days."
+          },
+          {
+            "question": "Do you offer financing options for roof replacement?",
+            "answer": "Yes, we offer flexible financing options to help make roof replacement more affordable. Contact us to learn more about our financing plans."
+          },
+          {
+            "question": "What type of warranty do you offer on roof replacements?",
+            "answer": "We offer a comprehensive warranty on all roof replacements, covering both materials and workmanship. The specific terms of the warranty will vary depending on the roofing materials selected."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspection",
+        "name": "Roof Inspection",
+        "shortDescription": "Comprehensive roof inspections to identify potential problems before they escalate.",
+        "description": "Regular roof inspections are essential for maintaining the integrity of your roof and preventing costly repairs. North Texas Roofing provides thorough roof inspections to identify potential problems early on.\n\nOur experienced inspectors will carefully examine your roof for signs of damage, wear and tear, and other issues. We look for things like missing or damaged shingles, cracked or deteriorated flashing, leaks, and structural problems. We also assess the condition of your gutters and downspouts.\n\nFollowing the inspection, we'll provide you with a detailed report outlining our findings and recommendations. We'll explain any necessary repairs or maintenance and provide you with a clear estimate of the costs involved.\n\nA roof inspection from North Texas Roofing can help you catch small problems before they turn into major headaches. It's a small investment that can save you a lot of money in the long run.",
+        "process": [
+          "Step 1: Schedule a convenient time for your roof inspection.",
+          "Step 2: Our experienced inspector will conduct a thorough examination of your roof.",
+          "Step 3: Receive a detailed report outlining our findings and recommendations.",
+          "Step 4: Discuss your options and receive a clear estimate for any necessary repairs."
+        ],
+        "benefits": [
+          "Identifies potential problems early",
+          "Prevents costly repairs",
+          "Extends the lifespan of your roof",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major storm. Regular inspections can help you catch small problems before they turn into major headaches."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "A roof inspection includes a thorough examination of your roof for signs of damage, wear and tear, and other issues. We look for things like missing or damaged shingles, cracked or deteriorated flashing, leaks, and structural problems."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "We offer free roof inspections to homeowners in the Fort Worth area. Contact us to schedule your inspection today."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Installation & Repair",
+        "shortDescription": "Protect your home with expert gutter installation and repair services.",
+        "description": "Properly functioning gutters are essential for protecting your home from water damage. North Texas Roofing provides professional gutter installation and repair services to ensure that your gutters are working effectively.\n\nWe offer a variety of gutter options, including seamless aluminum gutters, which are custom-fit to your home to minimize leaks and maintenance. We also install gutter guards to prevent clogs from leaves and debris.\n\nOur experienced technicians can repair damaged gutters, clean out clogs, and ensure that your gutters are properly sloped for optimal drainage. We use quality materials and proven techniques to ensure lasting results.\n\nDon't let clogged or damaged gutters compromise the integrity of your home. Contact North Texas Roofing for reliable gutter installation and repair services.",
+        "process": [
+          "Step 1: Assess your gutter needs and recommend the best solution.",
+          "Step 2: Install new gutters or repair existing ones using quality materials.",
+          "Step 3: Ensure proper drainage and functionality.",
+          "Step 4: Clean up the work area and leave your property looking its best."
+        ],
+        "benefits": [
+          "Protects your home from water damage",
+          "Prevents foundation problems",
+          "Extends the lifespan of your roof",
+          "Enhances curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "Why are gutters important?",
+            "answer": "Gutters are important because they channel rainwater away from your home's foundation, preventing water damage. Without gutters, water can pool around your foundation, leading to cracks, leaks, and other problems."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall. If you have a lot of trees around your home, you may need to clean them more frequently."
+          },
+          {
+            "question": "What are gutter guards?",
+            "answer": "Gutter guards are screens or mesh that are installed over your gutters to prevent leaves and debris from clogging them. They can significantly reduce the need for gutter cleaning."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Expert storm damage repair services to restore your roof after severe weather.",
+        "description": "North Texas weather can be unpredictable, and severe storms can cause significant damage to your roof. North Texas Roofing provides comprehensive storm damage repair services to help you restore your roof and protect your home.\n\nWe understand the stress and disruption that storm damage can cause, so we respond quickly to assess the damage and provide you with a clear plan of action. We work with all major insurance companies to help you navigate the claims process and get the repairs you need.\n\nOur experienced technicians can repair or replace damaged shingles, repair leaks, and address any other storm-related damage to your roof. We use quality materials and proven techniques to ensure lasting results.\n\nIf your roof has been damaged by a storm, contact North Texas Roofing for reliable storm damage repair services. We're here to help you get your home back to normal.",
+        "process": [
+          "Step 1: Emergency roof tarping to prevent further damage.",
+          "Step 2: Thorough inspection to assess the extent of the storm damage.",
+          "Step 3: Assistance with the insurance claims process.",
+          "Step 4: Professional repair or replacement of damaged roofing components."
+        ],
+        "benefits": [
+          "Protects your home from further damage",
+          "Restores the integrity of your roof",
+          "Helps you navigate the insurance claims process",
+          "Provides peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my roof is damaged in a storm?",
+            "answer": "If your roof is damaged in a storm, the first thing you should do is contact your insurance company. Then, call North Texas Roofing for a free inspection and estimate. We can help you assess the damage and file a claim with your insurance company."
+          },
+          {
+            "question": "How long do I have to file a claim with my insurance company?",
+            "answer": "The time you have to file a claim with your insurance company varies depending on your policy. However, it's generally best to file a claim as soon as possible after the damage occurs."
+          },
+          {
+            "question": "Will filing a claim increase my insurance rates?",
+            "answer": "Filing a claim may or may not increase your insurance rates. It depends on your insurance company and the circumstances of the claim."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-roofing",
+        "name": "Commercial Roofing",
+        "shortDescription": "Comprehensive commercial roofing services for businesses in North Texas.",
+        "description": "North Texas Roofing provides a full spectrum of commercial roofing services, catering to the unique needs of businesses throughout the region. We understand the importance of a durable, reliable roof for protecting your assets and ensuring business continuity.\n\nOur team is experienced in installing and maintaining a variety of commercial roofing systems, including TPO, PVC, metal, and modified bitumen. We work closely with property managers, building owners, and contractors to deliver solutions that meet their specific requirements and budget.\n\nFrom new construction to roof replacements and repairs, we're committed to providing exceptional workmanship and customer service. We understand the importance of minimizing disruption to your business operations, and we strive to complete projects efficiently and safely.\n\nPartner with North Texas Roofing for all your commercial roofing needs. We're dedicated to providing reliable, long-lasting solutions that protect your investment and keep your business running smoothly.",
+        "process": [
+          "Step 1: Detailed assessment of your commercial roofing needs.",
+          "Step 2: Customized roofing solutions tailored to your specific requirements.",
+          "Step 3: Professional installation or repair using quality materials.",
+          "Step 4: Ongoing maintenance and support to maximize the lifespan of your roof."
+        ],
+        "benefits": [
+          "Protects your business assets",
+          "Ensures business continuity",
+          "Improves energy efficiency",
+          "Enhances property value"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial roofing systems do you install?",
+            "answer": "We install a variety of commercial roofing systems, including TPO, PVC, metal, and modified bitumen."
+          },
+          {
+            "question": "Do you offer roof maintenance programs for commercial buildings?",
+            "answer": "Yes, we offer customized roof maintenance programs to help you extend the lifespan of your roof and prevent costly repairs."
+          },
+          {
+            "question": "How do I know if my commercial roof needs to be replaced?",
+            "answer": "Signs that your commercial roof may need to be replaced include leaks, excessive wear and tear, and structural damage. Contact us for a free inspection to assess the condition of your roof."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is proud to offer our expert roofing services to homeowners and businesses in Dallas, Texas. We understand the unique challenges that Dallas' climate presents to roofs, from the intense summer heat and humidity to the occasional severe storms. Our team is experienced in working with the diverse architectural styles found throughout Dallas, including the many 1950s ranch homes in established neighborhoods.\n\nWe provide a full range of roofing services in Dallas, including roof repair, roof replacement, and regular maintenance. Whether you need a minor leak fixed or a complete roof overhaul, we're committed to providing top-quality workmanship and exceptional customer service. We use only the best materials and employ skilled technicians to ensure your roof provides long-lasting protection for your property.",
+        "localContext": "Dallas features a mix of older, established neighborhoods with ranch-style homes and newer developments, all experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is dedicated to providing Plano, Texas, homeowners with reliable and affordable roofing solutions. We have extensive experience working on the types of homes commonly found in Plano, particularly those in the established subdivisions built in the 1980s and 1990s. We understand the specific roofing needs of these homes and are equipped to handle any roofing project, big or small.\n\nFrom roof inspections and repairs to complete roof replacements, we offer a comprehensive range of services to keep your Plano home protected. We are committed to using high-quality materials and employing skilled professionals to ensure that your roof is built to last. We also understand the importance of clear communication and transparency throughout the entire process.",
+        "localContext": "Plano is characterized by its established subdivisions dating back to the 1980s and 90s, and like the rest of North Texas, it experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Richardson",
+          "Allen",
+          "Frisco"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is pleased to offer its expertise to the growing community of Frisco, Texas. With its abundance of newer construction homes built in the 2000s and 2020s, Frisco presents unique roofing needs. We are familiar with the latest roofing materials and techniques used in these newer homes, and we are equipped to handle any roofing project, from initial installation to ongoing maintenance.\n\nWe offer a full suite of roofing services in Frisco, including roof inspections, repairs, replacements, and preventative maintenance programs. We understand the importance of protecting your investment in your home, and we are committed to providing top-quality workmanship and exceptional customer service. Our goal is to ensure that your roof provides reliable protection and enhances the value of your property for years to come.",
+        "localContext": "Frisco features predominantly newer construction homes from the 2000s and 2020s, and it experiences hot, humid summers.",
+        "nearbyAreas": [
+          "The Colony",
+          "Prosper",
+          "Little Elm"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is proud to serve the residents of McKinney, Texas, offering comprehensive roofing services tailored to the unique character of this historic city. We appreciate the architectural diversity of McKinney, from the charming historic downtown homes to the modern developments throughout the city. Our team is experienced in working with a variety of roofing materials and styles, ensuring that we can meet the specific needs of your property.\n\nWhether you need a roof repair, a complete roof replacement, or regular maintenance, North Texas Roofing is here to help. We are committed to providing top-quality workmanship, exceptional customer service, and competitive pricing. We understand the importance of protecting your home and preserving the beauty of McKinney's historic neighborhoods.",
+        "localContext": "McKinney boasts a charming historic downtown with unique home styles, alongside newer developments, all experiencing hot, humid summers.",
+        "nearbyAreas": [
+          "Allen",
+          "Melissa",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is dedicated to providing reliable and affordable roofing services to the residents of Arlington, Texas. We are familiar with the prevalent architectural styles in Arlington, particularly the 1960s and 70s ranch homes that characterize many of its neighborhoods. Our team has the experience and expertise to handle any roofing project, from minor repairs to complete replacements.\n\nWe offer a complete range of roofing services in Arlington, including roof inspections, repairs, replacements, and maintenance. We are committed to using high-quality materials and employing skilled professionals to ensure that your roof is built to last. We also understand the importance of clear communication and transparency throughout the entire process, so you can rest assured you're getting the best service possible.",
+        "localContext": "Arlington is known for its many 1960s and 70s ranch-style homes, and like the rest of North Texas, it experiences hot, humid summers.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Mansfield",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "As a local Fort Worth roofing contractor, North Texas Roofing is committed to providing exceptional service to our neighbors. We understand the unique challenges that Texas weather presents to roofs in Fort Worth, and we're equipped to handle any roofing need, from minor repairs to full replacements. We pride ourselves on our quality workmanship and dedication to customer satisfaction.\n\nWhether you have a historic home in the cultural district or a newer build in the suburbs, North Texas Roofing is here to help protect your investment. We offer a wide range of roofing services, including inspections, repairs, replacements, and maintenance plans.",
+        "localContext": "Fort Worth showcases a blend of historic architecture and modern developments, all within a climate of hot, humid summers.",
+        "nearbyAreas": [
+          "Arlington",
+          "Benbrook",
+          "Saginaw"
+        ]
+      },
+      {
+        "city": "Grapevine",
+        "slug": "grapevine-tx",
+        "state": "TX",
+        "content": "North Texas Roofing extends its expert roofing services to the community of Grapevine, Texas. We understand the specific needs of Grapevine homeowners, considering the mix of established neighborhoods and newer construction. Our team is equipped to handle any roofing project, ensuring your home is protected from the elements.\n\nWe offer a comprehensive range of roofing services in Grapevine, including inspections, repairs, replacements, and maintenance programs. We are dedicated to using high-quality materials and providing exceptional customer service, ensuring your complete satisfaction.",
+        "localContext": "Grapevine features a mix of established and newer homes, all within the context of hot, humid Texas summers.",
+        "nearbyAreas": [
+          "Southlake",
+          "Euless",
+          "Coppell"
+        ]
+      },
+      {
+        "city": "Southlake",
+        "slug": "southlake-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is proud to offer premium roofing services to the discerning homeowners of Southlake, Texas. Known for its upscale homes and meticulously maintained properties, Southlake demands the highest quality workmanship and materials. We are committed to exceeding those expectations with our expert roofing solutions.\n\nFrom custom roof designs to meticulous repairs, we offer a comprehensive range of services tailored to the specific needs of Southlake residents. We understand the importance of protecting your investment and enhancing the curb appeal of your home. We utilize the best materials, skilled technicians, and transparent communication to ensure your complete satisfaction.",
+        "localContext": "Southlake is characterized by its upscale homes and a commitment to quality, experiencing typical hot, humid Texas summers.",
+        "nearbyAreas": [
+          "Keller",
+          "Colleyville",
+          "Grapevine"
+        ]
+      },
+      {
+        "city": "Flower Mound",
+        "slug": "flower-mound-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is dedicated to serving the Flower Mound, Texas community with top-notch roofing services. We understand the blend of established and newer homes in Flower Mound, and we are equipped to handle any roofing challenge that comes our way. Our commitment is to provide reliable and long-lasting roofing solutions.\n\nWe offer a full spectrum of roofing services in Flower Mound, including thorough inspections, efficient repairs, complete replacements, and proactive maintenance plans. Our goal is to protect your home and family with quality workmanship and exceptional customer service.",
+        "localContext": "Flower Mound showcases a mix of established and newer residential areas, all subject to the hot, humid summers of North Texas.",
+        "nearbyAreas": [
+          "Highland Village",
+          "Lewisville",
+          "Coppell"
+        ]
+      },
+      {
+        "city": "Lewisville",
+        "slug": "lewisville-tx",
+        "state": "TX",
+        "content": "North Texas Roofing is pleased to offer our comprehensive roofing services to the homeowners and businesses of Lewisville, Texas. We are familiar with the diverse architectural styles found throughout Lewisville, and we are equipped to handle any roofing project, big or small. We are committed to providing top-quality workmanship and exceptional customer service.\n\nWhether you need a minor roof repair, a complete roof replacement, or regular maintenance, North Texas Roofing is here to help. We use only the best materials and employ skilled technicians to ensure that your roof provides long-lasting protection for your property.",
+        "localContext": "Lewisville features a mix of residential and commercial properties, all experiencing hot, humid summers typical of North Texas.",
+        "nearbyAreas": [
+          "Carrollton",
+          "The Colony",
+          "Flower Mound"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "I had a leak in my roof after a recent storm, and North Texas Roofing came out quickly to assess the damage and provide a repair estimate. They were very professional and transparent throughout the entire process. The repair was completed efficiently, and the leak is now gone. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Robert K.",
+        "rating": 4,
+        "service": "Roof Replacement",
+        "text": "North Texas Roofing did a great job replacing our roof. The crew was professional and efficient, and they cleaned up everything nicely afterwards. The only reason I didn't give them 5 stars is because there was a slight delay in getting the materials delivered, but overall, we're very happy with the new roof.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "I needed new gutters installed, and North Texas Roofing provided a fair price and excellent service. The installation was quick and the gutters look great. They even hauled away the old gutters for me. I would definitely use them again.",
+        "date": "2025-04-12"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Roof Inspection",
+        "text": "I called North Texas Roofing for a roof inspection before buying a house in Arlington Heights. They were very thorough and identified a few potential issues that I was able to negotiate with the seller. Their detailed report saved me a lot of money and headaches down the road.",
+        "date": "2025-05-03"
+      },
+      {
+        "name": "Amanda S.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a particularly bad hail storm, my roof was a mess. North Texas Roofing helped me navigate the insurance claim process and quickly repaired the damage. They were professional, responsive, and did an excellent job restoring my roof. Highly recommended!",
+        "date": "2025-05-18"
+      },
+      {
+        "name": "David G.",
+        "rating": 4,
+        "service": "Roof Repair",
+        "text": "We had a persistent leak around our chimney that multiple contractors couldn't seem to fix. North Texas Roofing identified the problem quickly and provided a lasting solution. Their expertise and attention to detail were impressive. Would recommend.",
+        "date": "2025-06-02"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "North Texas Roofing | Fort Worth Roofing",
+        "description": "Fort Worth roofing contractor. Expert roof repair, replacement, and inspection. Serving Dallas, Plano, Frisco, McKinney, Arlington."
+      },
+      "about": {
+        "title": "About North Texas Roofing | Fort Worth, TX",
+        "description": "Learn about North Texas Roofing's commitment to quality, integrity, and community in Fort Worth, TX. Serving residential and commercial clients."
+      },
+      "services": {
+        "title": "North Texas Roofing Services | Fort Worth, TX",
+        "description": "Comprehensive roofing services in Fort Worth: repair, replacement, inspection, gutters, storm damage. Serving Dallas, Plano, Frisco, McKinney, Arlington."
+      },
+      "contact": {
+        "title": "Contact North Texas Roofing | Fort Worth, TX",
+        "description": "Contact North Texas Roofing for free roof inspections and estimates in Fort Worth and surrounding areas. Serving residential and commercial clients."
+      },
+      "reviews": {
+        "title": "North Texas Roofing Reviews | Fort Worth, TX",
+        "description": "Read reviews from satisfied North Texas Roofing customers in Fort Worth, TX. Experience the quality and reliability of our roofing services."
+      },
+      "service-areas": {
+        "title": "North Texas Roofing Service Areas",
+        "description": "North Texas Roofing provides roofing services throughout the Dallas-Fort Worth metroplex. Serving Dallas, Plano, Frisco, McKinney, Arlington, and more."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspection": "/images/service-roof-inspection.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp",
+      "commercial-roofing": "/images/service-commercial-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspection": {
+        "src": "/images/service-roof-inspection.webp",
+        "srcset": "/images/service-roof-inspection-400w.webp 400w, /images/service-roof-inspection-800w.webp 800w, /images/service-roof-inspection-1200w.webp 1200w, /images/service-roof-inspection.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-roofing": {
+        "src": "/images/service-commercial-roofing.webp",
+        "srcset": "/images/service-commercial-roofing-400w.webp 400w, /images/service-commercial-roofing-800w.webp 800w, /images/service-commercial-roofing-1200w.webp 1200w, /images/service-commercial-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
